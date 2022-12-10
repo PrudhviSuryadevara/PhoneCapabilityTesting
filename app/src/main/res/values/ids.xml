@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sensorname" type="id" />
+    <item name="sensorRange" type="id" />
+    <item name="sensor_range" type="id" />
+    <item name="minDelay" type="id" />
+    <item name="sensor_mindelay" type="id" />
+    <item name="sensorPower" type="id" />
+    <item name="sensor_power" type="id" />
+    <item name="sensorSolution" type="id" />
+    <item name="sensor_resolution" type="id" />
+    <item name="sensorVendor" type="id" />
+    <item name="sensor_vendor" type="id" />
+    <item name="sensorVer" type="id" />
+    <item name="sensor_version" type="id" />
+    <item name="event0" type="id" />
+    <item name="event1" type="id" />
+    <item name="event2" type="id" />
+    <item name="event3" type="id" />
+    <item name="event4" type="id" />
+    <item name="event5" type="id" />
+    <item name="event6" type="id" />
+    <item name="accuracyt" type="id" />
+    <item name="accuracy" type="id" />
+    <item name="timeStamp" type="id" />
+</resources>

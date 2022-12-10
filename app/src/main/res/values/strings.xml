@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Phone Capability Testing</string>
+    <string name="sensor_type">sensortype</string>
+    <string name="shake_to_enjoy">Shake to Enjoy!</string>
+    <string name="shake_detection">Shake Detection</string>
+    <string name="beacon_uuid_simulator">2f234454-cf6d-4a0f-adf2-f4911ba9ffa6</string>
+    <string name="beacon_minor_simulator">12</string>
+    <string name="beacon_major_simulator">5</string>
+    <string name="beacon_minor_simulator_text">Minor : 12</string>
+    <string name="beacon_major_simulator_text">Major : 5</string>
+    <string name="uuid">Uuid</string>
+    <string name="major">Major</string>
+    <string name="minor">Minor</string>
+    <string name="beacon_uuid" tools:ignore="TypographyDashes">954e6dac-5612-4642-b2d1-d253429db36b</string>
+    <string name="beacon_major">0</string>
+    <string name="beacon_minor">0</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="sensor_name">Sensor Name</string>
+    <string name="sensor_range">Sensor Range</string>
+    <string name="sensor_min_delay">Sensor Min Delay</string>
+    <string name="sensor_power">Sensor Power</string>
+    <string name="sensor_resolution">Sensor Resolution</string>
+    <string name="sensor_vendor">Sensor Vendor</string>
+    <string name="sensor_version">Sensor Version</string>
+    <string name="get_sensor_values">Get Sensor Values</string>
+    <string name="sensor_values">Sensor Values</string>
+    <string name="sensor_accuracy">Sensor Accuracy</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="back">Back</string>
+    <string name="sensor_list">Sensor List</string>
+    <string name="sound_detection">Sound Detection</string>
+    <string name="shake_music_player">Shake Music Player</string>
+    <string name="bluetooth_beacon">Bluetooth Beacon</string>
+    <string name="start">Start</string>
+    <string name="stop">STOP</string>
+
+</resources>
